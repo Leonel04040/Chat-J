@@ -1,4 +1,4 @@
-var socket = io('https://chat-production-7fbb.up.railway.app/');
+var socket = io('https://chat-j-production.up.railway.app/');
 
 let message = document.getElementById('message');
 let username = document.getElementById('username');
